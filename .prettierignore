@@ -1,0 +1,9 @@
+node_modules/
+dist/
+build/
+.git/
+.tauri/
+target/
+src-tauri/target/
+.venv/
+*.log
