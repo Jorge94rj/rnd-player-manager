@@ -13,6 +13,9 @@ dist-ssr
 target
 *.local
 
+# Ignore generated JS artifacts inside source folders
+src/**/*.js
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
